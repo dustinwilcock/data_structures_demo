@@ -1,6 +1,6 @@
 '''
 Data Structure Demo - Simple data types
-Author: Bro. Wilcock
+Author: Brother Wilcock
 '''
 import math
 
