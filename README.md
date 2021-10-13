@@ -11,3 +11,8 @@ There are 3 Python implementations:
  * Named Tuples (called Structs or Records in other languages)
 
  * Classes
+
+# Authors
+
+Bro. Wilcock
+
